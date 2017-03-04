@@ -1,6 +1,6 @@
 # Requesting
 
-Please search through the [board](https://github.com/Cog-Creators/Cog-Board/issues) for similar requests before adding your own.
+Please search through [cogs.red](http://cogs.red/cogs/) and the [cog-board](https://github.com/Cog-Creators/Cog-Board/issues) for similar requests before adding your own.
 
 If there isn't a similar request, add one with a detailed description of your idea preferably with examples of how you are thinking it should be used.
 
