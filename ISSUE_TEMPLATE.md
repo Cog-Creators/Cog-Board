@@ -2,4 +2,4 @@
 
 ## API's or other information for cog:
 
-## Other info (Payments, issues, ETC):
+## Other info (Bounty, issues, ETC):
